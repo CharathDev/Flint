@@ -4,7 +4,7 @@
 
 namespace Flint {
 
-	class LEMON_API Application
+	class FLINT_API Application
 	{
 	public:
 		Application();
